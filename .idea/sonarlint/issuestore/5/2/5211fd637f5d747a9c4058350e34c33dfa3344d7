@@ -1,15 +1,15 @@
 
+T
+java:S18540"9Remove this useless assignment to local variable "visit".(úãŒŸùÿÿÿÿ
+P
+java:S22097"5Change this instance-reference to a static reference.(À„¦†üÿÿÿÿ
 N	java:S106."9Replace this use of System.out or System.err by a logger.(ÇıñÃ
 t
 java:S11924"RDefine a constant instead of duplicating this literal "redirect:/visitor" 3 times.(—Ÿ¯úÿÿÿÿ8ƒ§ ‘0
-P
-java:S22097"5Change this instance-reference to a static reference.(À„¦†üÿÿÿÿ
-o
-java:S1104"RMake logger a static final constant or non-public and provide accessors if needed.(ŠÛÌ8ŒàË‘0
-T
-java:S18540"9Remove this useless assignment to local variable "visit".(úãŒŸùÿÿÿÿ
-f	java:S116"QRename this field "v_repo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ° „
-B
-java:S3457@"%String contains no format specifiers.(¢ÅÄ8°¹Ï‘0
 K
 java:S22092"5Change this instance-reference to a static reference.(¬à¯×
+f	java:S116"QRename this field "v_repo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ° „
+o
+java:S1104"RMake logger a static final constant or non-public and provide accessors if needed.(ŠÛÌ8ŒàË‘0
+B
+java:S3457@"%String contains no format specifiers.(¢ÅÄ8°¹Ï‘0

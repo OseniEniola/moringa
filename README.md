@@ -4,8 +4,8 @@ _Getting Started_
 To get a copy of the project up and running on your local machine for development and testing purpose it is required that Java 8/jdk or above be installed on the machine as well as STS(SPRING TOOL SUITE) for eclipse, MYSQL is also required for running the database,
 
 Database with the following credentials is required
-dbname: vmsdb
-username:root
+dbname: vmsdb,
+username:root,
 password:
 
 _Dependencies_
@@ -16,6 +16,12 @@ spring-boot-starter-data-rest
 -tomcat-embed-jasper
 -mysql-connector-java
 spring-boot-starter- test
+
+_Application Port
+8086
+
+_Application Landing Page
+http://localhost:8086/visitor
 
 _Prerequisites_
 -Spring tool suite or spring CLI
